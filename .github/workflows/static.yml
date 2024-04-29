@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Portfólio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Meu Portfólio</h1>
+        <p>Bem-vindo ao meu portfólio!</p>
+    </div>
+</body>
+</html>
+
+
+<html lang="en"> 
+ <head>
+  <meta charset="UTF-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <title>prazer ch - Portfólio</title>
+  <style>
+  #imagem_1_{
+    width: 250px;
+  }
+  #imagem_2_{
+    width: 250px;
+  }
+  </style>
+ </head> 
+ <body> 
+  <header> 
+   <h1>prazer ch</h1> 
+   <nav> 
+    <ul> 
+     <li><a href="#sobre">Sobre</a></li> 
+     <li><a href="#projetos">Projetos</a></li> 
+     <li><a href="#habilidades">Habilidades</a></li> 
+     <li><a href="#contato">Contato</a></li> 
+    </ul> 
+   </nav> 
+  </header> 
+  <section id="sobre"> 
+   <h2>Sobre Mim</h2> 
+   <p>Eu sou um programador fullstack. uso HTML5, Javascript e CSS3 e o sou intermerdiario de python.</p> 
+  </section> 
+  <section id="projetos"> 
+   <h2>Projetos</h2> 
+   <img id="imagem_1_" src="https://imgur.com/UmpjDtX.jpg" alt="uns do meu projetos"> <img id="imagem_2_" src="https://i.imgur.com/N1WD2Ro.jpg"
+  </section> 
+  <section id="habilidades"> 
+   <h2>Habilidades</h2> 
+   <p>Avançado em HTML, JAVA, Javascript, CSS, intermerdiario em python e fluente em espanhol
+   </p>
+  </section> 
+  <section id="contato"> 
+   <h2>Contato</h2
+   <p>bloxfruitsfest@gmail.com</p>
+  </section> 
+  <footer> 
+   <p>© 2024</p> 
+  </footer> 
+ </body>
+ <html>
+ 
